@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.colorpicker;
+package com.gzosp.support.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

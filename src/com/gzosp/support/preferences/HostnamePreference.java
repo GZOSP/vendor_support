@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.preferences;
+package com.gzosp.support.preferences;
 
 import android.content.Context;
 import android.os.SystemProperties;
